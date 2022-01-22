@@ -1,7 +1,7 @@
 ### Olá! Eu sou o PaulCod
 
-- 🔭 Hoje trabalho om frontend
-- 🌱 Estudando Typescript
+- 🔭 Hoje trabalho com backend
+- 🌱 Estudando Golang e Docker
 
 <div align="center">
   <a href="https://github.com/PaulCod">
