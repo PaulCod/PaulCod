@@ -1,7 +1,7 @@
 ### Olá! Eu sou o PaulCod
 
-- 🔭 Hoje trabalho com backend
-- 🌱 Estudando Golang e Docker
+- 🔭 Hoje trabalho com FullStacj
+- 🌱 Estudando Javascript e seus frameworks e Docker
 
 <div align="center">
   <a href="https://github.com/PaulCod">
