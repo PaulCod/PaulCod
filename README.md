@@ -1,6 +1,6 @@
 ### Olá! Eu sou o PaulCod
 
-- 🔭 Hoje trabalho com FullStacj
+- 🔭 Hoje trabalho com FullStack
 - 🌱 Estudando Javascript e seus frameworks e Docker
 
 <div align="center">
