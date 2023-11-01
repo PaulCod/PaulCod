@@ -1,7 +1,7 @@
-### Olá! Eu sou o PaulCod
+### Olá! Eu sou o Paulo Jr
 
-- 🔭 Hoje trabalho com FullStack
 - 🌱 Estudando Javascript e seus frameworks e Docker
+- Cursando Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/PaulCod">
