@@ -2,6 +2,7 @@
 
 - 🌱 Estudando Javascript e seus frameworks e Docker
 - Cursando Engenharia de Software
+- Analista Salesforce
 
 <div align="center">
   <a href="https://github.com/PaulCod">
